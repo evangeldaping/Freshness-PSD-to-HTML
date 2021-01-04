@@ -71,3 +71,14 @@ input[type="submit"]:hover{background: #ee802f;}
 #service_area .col-md-4 h4{font-size: 15px; font-weight: 400; margin-bottom: 10px;}
 #service_area .col-md-4 h4 a{color: #3bafbe;}
 #service_area .col-md-4 p{font-size: 12px; margin-bottom: 0;line-height: 1.4em}
+
+/*===============================================================
+ Footer Style
+==================================================================*/
+#footer_area{background: #252525; padding: 40px 0; color: #fff;}
+#footer_area h3{font-size: 20px;}
+#footer_area ul{margin: 0; padding: 0; list-style: none;}
+#footer_area ul li{display: block;margin-bottom: 5px; border-bottom: 1px solid #ddd;}
+#footer_area ul li a{color: #3bafbe;padding: 5px;display: block;}
+#footer_area input{margin-bottom: 10px;}
+
