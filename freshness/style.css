@@ -82,3 +82,9 @@ input[type="submit"]:hover{background: #ee802f;}
 #footer_area ul li a{color: #3bafbe;padding: 5px;display: block;}
 #footer_area input{margin-bottom: 10px;}
 
+/*===============================================================
+ Copyright Style
+==================================================================*/
+#copyright{background: #1a1a1a; padding: 20px 0; color: #fff; }
+#copyright p{margin: 0;}
+#copyright .col-md-6:last-child{text-align: right;}
